@@ -1,0 +1,31 @@
+HTML, body {
+  background-color: #010A10;
+}
+
+.btn {
+  color:#C10206;
+  background-color: #DFE2db;
+  border-color: #211D21;
+  text-align: center;
+}
+
+  .col4 {
+    text-align: center;
+  }
+
+  .card-body {
+    background-color: #211D21;
+    color: #C10206;
+    border: solid;
+    border: thick double;
+  border-color: #c10206;
+
+  }
+
+  
+ 
+  .header555 {
+    margin-top: 15%;
+    text-align: center;
+    color: #C10206;
+  }
